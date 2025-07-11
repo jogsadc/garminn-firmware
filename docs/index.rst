@@ -1,28 +1,15 @@
 Garmin GPS Firmware Update: A Complete Guide
 ==========================
+.. toctree::
+   :maxdepth: 2
+   :caption: Contents: 
 
-# Read the Docs configuration file
-# See https://docs.readthedocs.io/en/stable/config-file/v2.html for details
 
-# Required
-version: 2
-
-# Set the OS, Python version, and other tools you might need
-build:
-  os: ubuntu-24.04
-  tools:
-    python: "3.13"
-
-# Build documentation in the "docs/" directory with Sphinx
-sphinx:
-   configuration: docs/conf.py
-
-# Optionally, but recommended,
-# declare the Python requirements required to build your documentation
-# See https://docs.readthedocs.io/en/stable/guides/reproducible-builds.html
-# python:
-#    install:
-#    - requirements: docs/requirements.txt
+.. image:: https://blogger.googleusercontent.com/img/a/AVvXsEiTZCEwiDWoD3VtdXUL3jnv2UMSrI-4X5-dUvVhGsq1OzzqpWmG1nakbDKKrqB5ArVm7Ia9Z_ywDw_gz7rEJyMlh0wTfnLit1Cpcdhl5CKD1H6aGmEsd4m0HxY7JbZlZnfbNAQIGBb527pgyrV7yxxbVwuCPReFPPt2sh-PPJXnMoyIxo423MipmL0L1Iq-=s302
+   :alt: My Project Logo
+   :width: 400px
+   :align: center
+   :target: https://navisolve.com/
 
 Garmin GPS devices are engineered for precision, durability, and versatility. From automotive units to handheld outdoor trackers, these devices rely on a core software component known as firmware. Performing regular Garmin GPS firmware updates is essential for maintaining optimal performance, fixing bugs, enhancing features, and ensuring long-term device stability.
 
